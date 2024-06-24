@@ -1,0 +1,53 @@
+[
+  {
+    "en": "Federal Republic of Nigeria",
+    "cn": "尼日利亚",
+    "code": "+234"
+  },
+  {
+    "en": "China",
+    "cn": "中国",
+    "code": "+86"
+  },
+  {
+    "en": "Colombia",
+    "cn": "哥伦比亚",
+    "code": "+57"
+  },
+  {
+    "en": "Congo",
+    "cn": "刚果",
+    "code": "+242"
+  },
+  {
+    "en": "Cook Is",
+    "cn": "库克群岛",
+    "code": "+682"
+  },
+  {
+    "en": "Costa Rica",
+    "cn": "哥斯达黎加",
+    "code": "+506"
+  },
+  {
+    "en": "Cuba",
+    "cn": "古巴",
+    "code": "+53"
+  },
+  {
+    "en": "Cyprus",
+    "cn": "塞浦路斯",
+    "code": "+357"
+  },
+  {
+    "en": "Macao",
+    "cn": "中国澳门",
+    "code": "+853"
+  },
+  
+  {
+    "en": "Zambia",
+    "cn": "赞比亚",
+    "code": "+260"
+  }
+]

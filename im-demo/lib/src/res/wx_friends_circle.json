@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "suc": true,
+  "msg": "",
+  "data": [
+    {
+      "id": 36,
+      "name": "test",
+      "color": "#f279ad",
+      "content": "test publish",
+      "time": "Now",
+      "imgs": [
+        "assets/wechat/discover/friends/image2.jpeg",
+        "assets/wechat/discover/friends/image3.jpeg",
+        "assets/wechat/discover/friends/image4.jpeg",
+        "assets/wechat/discover/friends/image5.jpeg",
+        "assets/wechat/discover/friends/image6.jpeg",
+        "assets/wechat/discover/friends/image7.jpeg",
+        "assets/wechat/discover/friends/image8.jpeg",
+        "assets/wechat/discover/friends/image9.jpeg"
+      ]
+    }
+  ]
+}

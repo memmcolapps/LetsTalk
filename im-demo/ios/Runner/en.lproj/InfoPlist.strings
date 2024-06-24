@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by ruby.you on 2022/9/17.
+  
+*/
+
+"NSAppleMusicUsageDescription"="Whether to allow the app to access your media library";//声音
+"NSCameraUsageDescription"="If not allowed, you will not be able to use functions such as taking pictures and scanning";//相册
+"NSLocationAlwaysAndWhenInUseUsageDescription"="Whether to allow apps to access your location";//位置
+"NSLocationAlwaysUsageDescription"="Whether to allow apps to access your location to share to your friends";//地址位置
+"NSLocationUsageDescription"="Whether to allow apps to access your location";//实时位置
+"NSLocationWhenInUseUsageDescription"="Whether to allow the app to access your location during use";// 地理位置
+"NSMicrophoneUsageDescription"="APP needs your consent to use the microphone for video recording, voice recognition, and voice chat";
+"NSPhotoLibraryAddUsageDescription"="APP needs your consent to access the album for saving pictures";
+"NSPhotoLibraryUsageDescription"="APP needs your consent to access the photo album for image selection, uploading, and publishing";
+"NSSpeechRecognitionUsageDescription"="The APP needs your consent to perform speech recognition for a better user experience";
